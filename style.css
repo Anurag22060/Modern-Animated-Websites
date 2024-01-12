@@ -28,22 +28,25 @@ html, body{
    
 }
 
+
 #nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    padding: 30px 50px;
+    padding: 5px 50px;
 }
 
 #nav img {
-    width: 140px;
+    height: 86px;
+    width: 106px;
 }
+
 #nav a{
     text-decoration: none;
-    font-weight: 400;
+    font-weight: 600;
     color: #000;
-    font-size: 1.1vw;
+    font-size: 1.3vw;
     letter-spacing: 0;
 }
 
